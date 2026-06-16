@@ -1,4 +1,4 @@
-import ToolCard from "./ToolCard";
+import ToolCard from "../components/ToolCard";
 
 export default function Home() {
   const tools = [

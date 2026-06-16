@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/components/footer.tsx","./src/components/navbar.tsx","./src/components/toolcard.tsx","./src/pages/colorpalette.tsx","./src/pages/dashboard.tsx","./src/pages/home.tsx","./src/pages/jsonformatter.tsx","./src/pages/markdowneditor.tsx","./src/pages/passwordgenerator.tsx","./src/pages/qrgenerator.tsx"],"errors":true,"version":"6.0.3"}
